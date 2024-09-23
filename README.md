@@ -53,6 +53,5 @@ For inquiries, please reach out to [faiza.benzir@northsouth.edu](mailto:faiza.be
 ---
 
 Thank you for your interest in the Area Estimation System (AES)! We look forward to your contributions and feedback.
-```
 
 Feel free to modify any sections to better fit your project's specifics!
